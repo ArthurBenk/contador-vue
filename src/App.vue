@@ -20,7 +20,7 @@ function resetar(){
 
 <template>
   <h1>meu contador legalzão em vue</h1>
-  <p>valor do contador: {{contador}}</p>
+  <p>valor do contador muito legal: {{contador}}</p>
   <button v-on:click="incrementar">+</button>
   <button v-on:click="tirar">-</button>
   <button v-on:click="resetar">reset</button>
