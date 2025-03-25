@@ -27,5 +27,8 @@ function resetar(){
 </template>
 
 <style scoped>
-
+ template{
+  background-color: grey;
+ }
 </style>
+ 
